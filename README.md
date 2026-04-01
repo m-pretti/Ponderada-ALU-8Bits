@@ -61,6 +61,6 @@ Realiza operações bit-a-bit fundamentais entre os operandos A e B:
     * Para operações que envolvem o Acumulador, utilize o sinal de Clock.
 6. **Saídas**: Observe os displays RAC (Resultado Principal) e RMQ (Resultado Secundário).
 
-## Tecnologias Utilizadas
+# Vídeo de Demonstração
 
-* **Simulador Digital**: Para design e teste lógico dos circuitos.
+[Vídeo](https://drive.google.com/drive/folders/1JugWxQ_Q3C9oBb86Ny2e79adnWJ5CMp7?usp=sharing)  
